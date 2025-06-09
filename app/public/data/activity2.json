@@ -1,0 +1,83 @@
+[
+    {
+        "id":"text2",
+        "type":"text",
+        "value":"Activity 2",
+        "fontSize":20,
+        "fontFamily":"Calibri",
+        "fill":"black",
+        "opacity":1,
+        "x":25,
+        "y":150,
+        "stroke":"black",
+        "draggable": true,
+        "scaleable": false
+    },
+    {
+        "id": "bg1",
+        "type": "rect",
+        "x": 200,
+        "y": 200,
+        "w": 100,
+        "h": 5,
+        "fill": "red",
+        "stroke":"black",
+        "strokeWidth":1,
+        "draggable":false,
+        "scaleable":false
+    },
+    {
+        "id":"polygon1",
+        "type":"polygon",
+        "x":200,
+        "y":300,
+        "opacity":0.5,
+        "sides": 6,
+        "radius":50,
+        "points":[150,15,258,77,258,202,150,265,42,202,42,77],
+        "fill":"red",
+        "stroke":"black",
+        "strokeWidth":4,
+        "draggable":true,
+        "scaleable":true
+    },
+    {
+        "id": "arrow1-line1",
+        "type": "line",
+        "name": "arrow",
+        "x": 200,
+        "y": 200,
+        "w":100,
+        "h":10,
+        "strokeWidth":4,
+        "points": [200,200,300,200],
+        "stroke": "red",
+        "scaleable": false
+    },
+    {
+        "id": "arrow1-line2",
+        "type": "line",
+        "name": "arrow",
+        "x": 200,
+        "y": 200,
+        "w":100,
+        "h":10,
+        "strokeWidth":4,
+        "points": [200,200,225,225],
+        "stroke": "red",
+        "scaleable": false
+    },
+    {
+        "id": "arrow1-line3",
+        "name": "arrow",
+        "type": "line",
+        "x": 200,
+        "y": 200,
+        "w":100,
+        "h":10,
+        "strokeWidth":4,
+        "points": [200,200,225,175],
+        "stroke": "red",
+        "scaleable": false
+    }
+]

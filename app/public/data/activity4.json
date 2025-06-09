@@ -1,0 +1,31 @@
+[
+    {
+        "id":"text2",
+        "type":"text",
+        "value":"Activity 4",
+        "fontSize":20,
+        "fontFamily":"Calibri",
+        "fill":"black",
+        "opacity":1,
+        "x":25,
+        "y":150,
+        "stroke":"black",
+        "draggable": true,
+        "scaleable": false
+    },
+    {
+        "id":"video",
+        "type":"video",
+        "value":"./data/video/oblivion_remastered.mp4",
+        "opacity":1,
+        "x":25,
+        "y":150,
+        "width":600,
+        "height":400,
+        "autoplay":true,
+        "loop":false,
+        "muted":false,
+        "draggable": true,
+        "scaleable": true
+    }
+]

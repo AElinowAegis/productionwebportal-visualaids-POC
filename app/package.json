@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@svgdotjs/svg.draggable.js": "^3.0.6",
+    "@svgdotjs/svg.js": "^3.2.4",
+    "konva": "^9.3.20",
+    "next": "^15.3.2",
+    "pixi.js": "^8.9.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "svg.js": "^2.7.1",
+    "svgjs": "^2.6.2"
+  }
+}

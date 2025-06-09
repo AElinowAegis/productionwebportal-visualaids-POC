@@ -1,0 +1,42 @@
+[
+    {
+        "id":"text2",
+        "type":"text",
+        "value":"Activity 1",
+        "fontSize":20,
+        "fontFamily":"Calibri",
+        "fill":"black",
+        "opacity":1,
+        "x":25,
+        "y":150,
+        "stroke":"black",
+        "draggable": true,
+        "scaleable": false
+    },
+    {
+        "id":"smarttext1",
+        "type":"text",
+        "value":"Smart Text Element",
+        "fontSize":30,
+        "fontFamily":"Calibri",
+        "fill":"black",
+        "opacity":1,
+        "x":400,
+        "y":400,
+        "stroke":"black",
+        "draggable": true,
+        "scaleable": true
+    },
+    {
+        "id":"image5",
+        "type":"image",
+        "value":"./data/img/react.svg",
+        "x":300,
+        "y":200,
+        "w":200,
+        "h":200,
+        "opacity":1,
+        "draggable": true,
+        "scaleable": true
+    }
+]

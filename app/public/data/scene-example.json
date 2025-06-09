@@ -1,0 +1,67 @@
+[
+    {
+        "id": "bg1",
+        "type": "rect",
+        "x": 10,
+        "y": 10,
+        "w": 1000,
+        "h": 100,
+        "fill": "grey",
+        "stroke":"black",
+        "strokeWidth":3,
+        "draggable":false,
+        "scaleable":false
+    },
+    {
+        "id": "rect1",
+        "type": "rect",
+        "x": 320,
+        "y": 320,
+        "w": 50,
+        "h": 50,
+        "opacity":1,
+        "fill": "grey",
+        "stroke":"black",
+        "draggable": true,
+        "scaleable": true
+    },
+    {
+        "id": "bg2",
+        "type": "rect",
+        "x": 10,
+        "y": 120,
+        "w": 100,
+        "h": 400,
+        "fill": "gray",
+        "stroke":"black",
+        "strokeWidth":2,
+        "draggable":false,
+        "scaleable":false
+    },
+    {
+        "id":"image5",
+        "type":"image",
+        "value":"./data/img/react.svg",
+        "x":20,
+        "y":20,
+        "w":80,
+        "h":80,
+        "opacity":1,
+        "draggable":true,
+        "scaleable":true
+    },
+    {
+        "id":"text1",
+        "type":"text",
+        "value":"Aegis Production Portal POC",
+        "fontSize":50,
+        "fontFamily":"Calibri",
+        "fill":"black",
+        "opacity":1,
+        "x":110,
+        "y":35,
+        "stroke":"black",
+        "draggable":true,
+        "scaleable":true
+    }
+]

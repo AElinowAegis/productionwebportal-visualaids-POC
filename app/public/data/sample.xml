@@ -1,0 +1,390 @@
+<VisualAidObject Version="2" VisualAidType="0">
+	<DesignerItems>
+		<DesignerItemSerializableList>
+			<DesignerItem Version="4" Left="51" Top="12" Width="167" Height="111" ID="92c1360c-eeae-0d4a-6fbe-08dd88e715e4" zIndex="0" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<RectangleVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1">
+							<BOMLinkSyncHint/>
+							<Rectangle>
+								<Rectangle Fill="#FF808080" Stroke="#FF000000" StrokeThickness="5" Name="rectangle1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"/>
+							</Rectangle>
+						</RectangleVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="452.836242675781" Top="76.71630859375" Width="210.369812011719" Height="18.7783203125" ID="92c1360c-efae-0d4a-1f0c-08dd88e71834" zIndex="1" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<LineVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" Active="False">
+							<BOMLinkSyncHint/>
+							<Line2>
+								<Polyline Points="453,93 663.042310275353,79.2109375" Stretch="None" Fill="#00FFFFFF" Stroke="#FF000000" StrokeThickness="5" Name="line1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"/>
+							</Line2>
+						</LineVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="NaN" Top="224" Width="0.1" Height="259" ID="92c1360c-f0ae-0d4a-d6ff-08dd88e71a8b" zIndex="2" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<PolygonVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" Sides="5">
+							<BOMLinkSyncHint/>
+							<Polygon>
+								<Path Stretch="Fill" Fill="#00FFFFFF" Stroke="#FF000000" StrokeThickness="5" IsHitTestVisible="False" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+									<Path.Data>
+										<PathGeometry Figures="M5,0L1.54508497187474,4.75528258147577L-4.04508497187474,2.93892626146237L-4.04508497187474,-2.93892626146237L1.54508497187474,-4.75528258147577z">
+											<PathGeometry.Transform>
+												<TranslateTransform X="5" Y="5"/>
+											</PathGeometry.Transform>
+										</PathGeometry>
+									</Path.Data>
+								</Path>
+							</Polygon>
+						</PolygonVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="599" Top="223" Width="266" Height="150" ID="92c1360c-f1ae-0d4a-aa68-08dd88e71d6e" zIndex="3" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<TextVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" EditValue="Adrian" AutomaticSizing="True" FontSize="12" FontFamily="Segoe UI" HyperText="False" ValueAsURL="False" WebURL="" SmartText="False" SmartTypeEnum="None" SmartTextCustomFieldID="00000000-0000-0000-0000-000000000000" GlobalTextName="" Foreground="#FF000000" Background="#00FFFFFF" FontWeight="Normal" FontStyle="Normal" ShowTextBorder="False" TextBorderBrush="#FF000000" TextBorderThickness="5" HorizontalAlignment="0" VerticalAlignment="3" TextWrapping="1" IsUnderlineText="False" MeasurementName="" BatchAttributeNameID="">
+							<BOMLinkSyncHint/>
+						</TextVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="50" Top="149" Width="149" Height="127" ID="92c1360c-f2ae-0d4a-365b-08dd88e7276f" zIndex="4" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<PolygonVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" Sides="5">
+							<BOMLinkSyncHint/>
+							<Polygon>
+								<Path Stretch="Fill" Fill="#FF225490" Stroke="#FF396BA7" StrokeThickness="5" IsHitTestVisible="False" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+									<Path.Data>
+										<PathGeometry Figures="M5,0L1.54508497187474,4.75528258147577L-4.04508497187474,2.93892626146237L-4.04508497187474,-2.93892626146237L1.54508497187474,-4.75528258147577z">
+											<PathGeometry.Transform>
+												<TranslateTransform X="5" Y="5"/>
+											</PathGeometry.Transform>
+										</PathGeometry>
+									</Path.Data>
+								</Path>
+							</Polygon>
+						</PolygonVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="758.5" Top="0" Width="300" Height="300" ID="92c1360c-f4ae-0d4a-e4df-08dd88e73798" zIndex="5" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<ImageVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" FileID="92c1360c-f3ae-0d4a-f94e-08dd88e73785" DataType="Bitmap" PathRoot="" OriginalFile="">
+							<BOMLinkSyncHint/>
+						</ImageVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="562" Top="383" Width="400" Height="280" ID="92c1360c-f5ae-0d4a-ac75-08dd88e753c3" zIndex="6" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<TableVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" TableVisualAidMode="Table">
+							<BOMLinkSyncHint/>
+							<Table>
+								<TableUserControl Version="3" TableMode="0" HeaderAngle="0" ShowLookBehindParts="False" ShowLookBehindAtTop="False" AutoShrink="True" CellFontFamily="Segoe UI" CellFontSize="12" CellFontStyle="Normal" CellFontWeight="Normal" CellFontStretch="Normal" ColumnFontFamily="Segoe UI" ColumnFontSize="12" ColumnFontStyle="Normal" ColumnFontWeight="Normal" ColumnFontStretch="Normal">
+									<TitleHeader/>
+									<SubHeaders/>
+									<Footers/>
+									<ColumnDefinitions>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="00000000-0000-0000-0000-000000000000" CustomFieldClassType="4" ColumnCaption="Column1" ColumnName="Column1" ColumnTypeName="" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="00000000-0000-0000-0000-000000000000" CustomFieldClassType="4" ColumnCaption="Column2" ColumnName="Column2" ColumnTypeName="" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="00000000-0000-0000-0000-000000000000" CustomFieldClassType="4" ColumnCaption="Column3" ColumnName="Column3" ColumnTypeName="" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="00000000-0000-0000-0000-000000000000" CustomFieldClassType="4" ColumnCaption="Column4" ColumnName="Column4" ColumnTypeName="" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+									</ColumnDefinitions>
+									<CellForeground Type="SolidColorBrush" Color="#FF000000"/>
+									<ColumnForeground Type="SolidColorBrush" Color="#FF000000"/>
+									<TableDataSchema>
+										<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+											<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TableData" msdata:UseCurrentLocale="true">
+												<xs:complexType>
+													<xs:choice minOccurs="0" maxOccurs="unbounded">
+														<xs:element name="TableData">
+															<xs:complexType>
+																<xs:sequence>
+																	<xs:element name="Column1" type="xs:string" minOccurs="0"/>
+																	<xs:element name="Column2" type="xs:string" minOccurs="0"/>
+																	<xs:element name="Column3" type="xs:string" minOccurs="0"/>
+																	<xs:element name="Column4" type="xs:string" minOccurs="0"/>
+																</xs:sequence>
+															</xs:complexType>
+														</xs:element>
+													</xs:choice>
+												</xs:complexType>
+											</xs:element>
+										</xs:schema>
+									</TableDataSchema>
+									<TableData>
+										<DocumentElement>
+											<TableData>
+												<Column1>hi</Column1>
+												<Column2>hi</Column2>
+												<Column3>gu</Column3>
+												<Column4>gu</Column4>
+											</TableData>
+											<TableData/>
+											<TableData/>
+											<TableData/>
+										</DocumentElement>
+									</TableData>
+									<TableLayout>
+										<XtraSerializer version="1.0" application="GridControl">
+											<property name="#LayoutVersion" isnull="true"/>
+											<property name="$GridControl" iskey="true" value="GridControl">
+												<property name="UseFieldNameForSerialization">true</property>
+												<property name="GroupCount">0</property>
+												<property name="GroupSummary" iskey="true" value="0"/>
+												<property name="SortInfo" iskey="true" value="0"/>
+												<property name="Columns" iskey="true" value="4">
+													<property name="Item1" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Column1</property>
+														<property name="Header" type="System.String">Column1</property>
+														<property name="VisibleIndex">0</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item2" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Column2</property>
+														<property name="Header" type="System.String">Column2</property>
+														<property name="VisibleIndex">1</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item3" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Column3</property>
+														<property name="Header" type="System.String">Column3</property>
+														<property name="VisibleIndex">2</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item4" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Column4</property>
+														<property name="Header" type="System.String">Column4</property>
+														<property name="VisibleIndex">3</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+												</property>
+												<property name="View" isnull="true" iskey="true">
+													<property name="FormatConditions" iskey="true" value="0"/>
+													<property name="MultiSelectMode">Cell</property>
+													<property name="ShowIndicator">false</property>
+													<property name="AutoWidth">true</property>
+													<property name="UseAnimationWhenExpanding">false</property>
+													<property name="ShowGroupPanel">false</property>
+													<property name="AllowColumnFiltering">false</property>
+													<property name="AllowSorting">true</property>
+													<property name="AllowColumnMoving">false</property>
+													<property name="AllowEditing">false</property>
+													<property name="AllowMoveColumnToDropArea">false</property>
+													<property name="ColumnChooserState" isnull="true" iskey="true">
+														<property name="Location">758,0</property>
+														<property name="Size">220,250</property>
+													</property>
+													<property name="ShowTotalSummary">false</property>
+													<property name="IsColumnMenuEnabled">false</property>
+													<property name="IsTotalSummaryMenuEnabled">false</property>
+													<property name="IsRowCellMenuEnabled">false</property>
+												</property>
+												<property name="TotalSummary" iskey="true" value="0"/>
+												<property name="MRUFilters" iskey="true" value="0"/>
+												<property name="IsFilterEnabled">false</property>
+												<property name="GroupSummarySortInfo" iskey="true" value="0"/>
+											</property>
+										</XtraSerializer>
+									</TableLayout>
+								</TableUserControl>
+							</Table>
+						</TableVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="876" Top="267" Width="400" Height="280" ID="92c1360c-17af-0d4a-64da-08dd88e7a507" zIndex="7" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<BOMBlockVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1">
+							<BOMLinkSyncHint/>
+							<BOMBlock>
+								<TableUserControl Version="3" TableMode="1" HeaderAngle="0" ShowLookBehindParts="False" ShowLookBehindAtTop="False" AutoShrink="True" CellFontFamily="Segoe UI" CellFontSize="12" CellFontStyle="Normal" CellFontWeight="Normal" CellFontStretch="Normal" ColumnFontFamily="Segoe UI" ColumnFontSize="12" ColumnFontStyle="Normal" ColumnFontWeight="Normal" ColumnFontStretch="Normal">
+									<TitleHeader>
+										<TableHeaderUserControl Version="2" HeaderText="%Operation%" Alignment="1" TextFontFamily="Segoe UI" TextFontSize="12" TextFontStyle="Normal" TextFontWeight="Normal" TextFontStretch="Normal">
+											<TextForeground Type="SolidColorBrush" Color="#FF000000"/>
+											<TextBackground Type="SolidColorBrush" Color="#FFFFFFFF"/>
+										</TableHeaderUserControl>
+									</TitleHeader>
+									<SubHeaders/>
+									<Footers/>
+									<ColumnDefinitions>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="2b9b49ef-59cb-48cf-bdff-f72a323794d5" CustomFieldClassType="4" ColumnCaption="Color" ColumnName="Color" ColumnTypeName="Color" ColumnType="3" UseFixedColumnSizing="True" TextAlignment="1"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="c1aaadc3-dcc4-4f33-9e14-86c42c07ca63" CustomFieldClassType="4" ColumnCaption="Reference" ColumnName="Reference" ColumnTypeName="Reference" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="3b7763e8-7317-44eb-857a-5ca50f35511f" CustomFieldClassType="4" ColumnCaption="Part Number" ColumnName="IPN" ColumnTypeName="IPN" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="a1299b25-b400-4d3e-87c3-8910938ec2e7" CustomFieldClassType="4" ColumnCaption="Qty" ColumnName="Qty" ColumnTypeName="Qty" ColumnType="1" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+										<ColumnDefinition>
+											<VisualAidTableColumnDefinition Version="2" ID="8314d7f5-de0a-44d1-bb13-cc403e21a0dc" CustomFieldClassType="4" ColumnCaption="Description" ColumnName="Description" ColumnTypeName="Description" ColumnType="0" UseFixedColumnSizing="False" TextAlignment="4"/>
+										</ColumnDefinition>
+									</ColumnDefinitions>
+									<CellForeground Type="SolidColorBrush" Color="#FF000000"/>
+									<ColumnForeground Type="SolidColorBrush" Color="#FF000000"/>
+									<TableDataSchema>
+										<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+											<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TableData" msdata:UseCurrentLocale="true">
+												<xs:complexType>
+													<xs:choice minOccurs="0" maxOccurs="unbounded">
+														<xs:element name="TableData">
+															<xs:complexType>
+																<xs:sequence>
+																	<xs:element name="Color" msdata:DataType="System.Windows.Media.Color, PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" type="xs:anyType" minOccurs="0"/>
+																	<xs:element name="Reference" type="xs:string" minOccurs="0"/>
+																	<xs:element name="IPN" msdata:Caption="Part Number" type="xs:string" minOccurs="0"/>
+																	<xs:element name="Qty" type="xs:double" minOccurs="0"/>
+																	<xs:element name="Description" type="xs:string" minOccurs="0"/>
+																</xs:sequence>
+															</xs:complexType>
+														</xs:element>
+													</xs:choice>
+												</xs:complexType>
+											</xs:element>
+										</xs:schema>
+									</TableDataSchema>
+									<TableData/>
+									<TableLayout>
+										<XtraSerializer version="1.0" application="GridControl">
+											<property name="#LayoutVersion" isnull="true"/>
+											<property name="$GridControl" iskey="true" value="GridControl">
+												<property name="UseFieldNameForSerialization">true</property>
+												<property name="GroupCount">0</property>
+												<property name="GroupSummary" iskey="true" value="0"/>
+												<property name="SortInfo" iskey="true" value="0"/>
+												<property name="Columns" iskey="true" value="5">
+													<property name="Item1" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Color</property>
+														<property name="AllowSorting">False</property>
+														<property name="Header" type="System.String">Color</property>
+														<property name="VisibleIndex">0</property>
+														<property name="FixedWidth">true</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item2" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Reference</property>
+														<property name="AllowSorting">False</property>
+														<property name="Header" type="System.String">Reference</property>
+														<property name="VisibleIndex">1</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item3" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">IPN</property>
+														<property name="AllowSorting">False</property>
+														<property name="Header" type="System.String">Part Number</property>
+														<property name="VisibleIndex">2</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item4" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Qty</property>
+														<property name="AllowSorting">False</property>
+														<property name="Header" type="System.String">Qty</property>
+														<property name="VisibleIndex">3</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+													<property name="Item5" isnull="true" iskey="true">
+														<property name="GridRow">0</property>
+														<property name="FieldName">Description</property>
+														<property name="AllowSorting">False</property>
+														<property name="Header" type="System.String">Description</property>
+														<property name="VisibleIndex">4</property>
+														<property name="FixedWidth">false</property>
+														<property name="ActualWidth">NaN</property>
+													</property>
+												</property>
+												<property name="View" isnull="true" iskey="true">
+													<property name="FormatConditions" iskey="true" value="0"/>
+													<property name="MultiSelectMode">Cell</property>
+													<property name="ShowIndicator">false</property>
+													<property name="AutoWidth">true</property>
+													<property name="UseAnimationWhenExpanding">false</property>
+													<property name="ShowGroupPanel">false</property>
+													<property name="AllowColumnFiltering">false</property>
+													<property name="AllowSorting">false</property>
+													<property name="AllowColumnMoving">false</property>
+													<property name="AllowEditing">false</property>
+													<property name="AllowMoveColumnToDropArea">false</property>
+													<property name="ColumnChooserState" isnull="true" iskey="true">
+														<property name="Location">758,0</property>
+														<property name="Size">220,250</property>
+													</property>
+													<property name="ShowTotalSummary">false</property>
+													<property name="IsColumnMenuEnabled">false</property>
+													<property name="IsTotalSummaryMenuEnabled">false</property>
+													<property name="IsRowCellMenuEnabled">false</property>
+												</property>
+												<property name="TotalSummary" iskey="true" value="0"/>
+												<property name="MRUFilters" iskey="true" value="0"/>
+												<property name="IsFilterEnabled">false</property>
+												<property name="GroupSummarySortInfo" iskey="true" value="0"/>
+											</property>
+										</XtraSerializer>
+									</TableLayout>
+								</TableUserControl>
+							</BOMBlock>
+						</BOMBlockVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+			<DesignerItem Version="4" Left="49.5" Top="221" Width="484" Height="402" ID="92c1360c-12b9-0d4a-5860-08dd88e7ae73" zIndex="8" IsGroup="False" ParentID="00000000-0000-0000-0000-000000000000" UseAspectRatio="False" AspectRatio="1" Name="" LinkedParentID="00000000-0000-0000-0000-000000000000">
+				<Content>
+					<VisualAidItemRootElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+						<ECADVisualAidItem Version="15" UseHighlightOutline="True" Rotation="0" Opacity="1" ScaleX="1" ScaleY="1" UseHighContrastTheme="True" DisabledColor="#FFC0C0C0" ShowCircuitFrame="True" ShowAllCircuits="True" ShowSignalTraces="False" ShowPanelFrame="True" Flipped="False" CropCircle="False" ShowPolarity="False" ShowNotPopulated="False" ViewTopLabels="True" ViewBottomLabels="False" BoardViewPoint="Top" ViewerCropAreaTop="Infinity" ViewerCropAreaLeft="Infinity" ViewerCropAreaBottom="-Infinity" ViewerCropAreaRight="-Infinity" GraphicCropAreaTop="Infinity" GraphicCropAreaLeft="Infinity" GraphicCropAreaBottom="-Infinity" GraphicCropAreaRight="-Infinity" ViewerCalloutCropTop="0" ViewerCalloutCropLeft="0" ViewerCalloutCropBottom="0" ViewerCalloutCropRight="0" GraphicCalloutCropTop="0" GraphicCalloutCropLeft="0" GraphicCalloutCropBottom="0" GraphicCalloutCropRight="0" ReferenceLabels="True" PartMarkingLabels="False" HighlightBackground="True" HighlightPads="False" CanvasCalloutPointX="56.157083509231" CanvasCalloutPointY="552.748552562339" CalloutPointX="0" CalloutPointY="0" HasCallout="False" ECADID="fa018292-679d-45d5-a266-55a58cb2b8de" CalloutID="00000000-0000-0000-0000-000000000000" BorderSize="5">
+							<BOMLinkSyncHint/>
+							<VisibleLayers>
+								<Layer>11</Layer>
+								<Layer>14</Layer>
+								<Layer>5</Layer>
+								<Layer>7</Layer>
+								<Layer>3</Layer>
+								<Layer>1</Layer>
+							</VisibleLayers>
+							<PhotoplotLayers/>
+						</ECADVisualAidItem>
+					</VisualAidItemRootElement>
+				</Content>
+			</DesignerItem>
+		</DesignerItemSerializableList>
+	</DesignerItems>
+	<Connections>
+		<ConnectionInfoSerializableList/>
+	</Connections>
+	<PrintOptions/>
+</VisualAidObject>

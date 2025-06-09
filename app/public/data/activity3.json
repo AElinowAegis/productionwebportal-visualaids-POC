@@ -1,0 +1,31 @@
+[
+    {
+        "id":"text2",
+        "type":"text",
+        "value":"Activity 3",
+        "fontSize":20,
+        "fontFamily":"Calibri",
+        "fill":"black",
+        "opacity":1,
+        "x":25,
+        "y":150,
+        "stroke":"black",
+        "draggable": true,
+        "scaleable": false
+    },
+    {
+        "id":"ecad",
+        "type":"ecad",
+        "value":"/data/ecad/pcb.svg",
+        "x":50,
+        "y":100,
+        "width": 1000,
+        "height": 600,
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "fill": "gray",
+        "opacity": 1,
+        "draggable":true,
+        "scaleable":true
+    }
+]
