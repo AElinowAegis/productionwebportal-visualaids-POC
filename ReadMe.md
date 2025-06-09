@@ -7,7 +7,7 @@ Todo:
 - [X] SVG Renderer
     - [ ] implement arrow color changer
     - [ ] implement video rendering (activity 4)
-        > Note: Use "<ForeignObject>" tags for adding HTML (video) to SVG
+        > Note: Use "\<ForeignObject>" tags for adding HTML (video) to SVG
 - [x] Implement zoom (for SVG/Konva)
     - [x] Evaluate performance
 - [ ] Add Konva.Path impl for SVG's (ECAD)? (in-progress)
@@ -20,7 +20,7 @@ Dynamic Content:
 - [X] 'Activity Work Areas'
 - [ ] Smart images
 
-> Note: Use "<ForeignObject>" tags for adding HTML (video) to SVG
+> Note: Use "\<ForeignObject>" tags for adding HTML (video) to SVG
 
 
 Approaches
