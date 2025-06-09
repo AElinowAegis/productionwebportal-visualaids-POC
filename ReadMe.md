@@ -4,18 +4,23 @@
 
 Todo:
 - [x] Add SVG builder for VA XML
+- [X] SVG Renderer
+    - [ ] implement arrow color changer
+    - [ ] implement video rendering (activity 4)
+        > Note: Use "<ForeignObject>" tags for adding HTML (video) to SVG
 - [x] Implement zoom (for SVG/Konva)
     - [x] Evaluate performance
-- [ ] Add Konva.Path impl for SVG's?
-
+- [ ] Add Konva.Path impl for SVG's (ECAD)? (in-progress)
+- [ ] Implement table (overlay for Konva) and click-event handler that highlights ECAD element
 
 
 Dynamic Content:
-- [ ] Video
+- [X] Video
 - [ ] Smart Text
 - [X] 'Activity Work Areas'
 - [ ] Smart images
-Note: Use "<ForeignObject>" tags for adding HTML (video) to SVG
+
+> Note: Use "<ForeignObject>" tags for adding HTML (video) to SVG
 
 
 Approaches
